@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Kellan-Cook
 - 👀 I’m interested in Cybersecurity, Programing, video games and reading
-- 🌱 I’m currently learning C#, C, and creating webapps
+- 🌱 I’m currently studying Networking, and C#, C, and javascript
+- working on my screeps ai and Security + certification
 - 💞️ I’m looking to collaborate on anything i can help with
 - 📫 How to reach me kellancook01@gmail.com
 
